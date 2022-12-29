@@ -69,5 +69,5 @@ let x=65-$age
 fi  
 if [[ $age -ge 65 ]]
 then 
-  echo "" 
+  echo "gonderme denemesi"
     
